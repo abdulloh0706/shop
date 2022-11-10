@@ -1,0 +1,12 @@
+@import '../mixin';
+
+@include breakpoint (1500px){
+
+}
+
+.mastava{
+    display: block;
+}
+.mastava2{
+    display: none;
+}
